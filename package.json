@@ -1,0 +1,11 @@
+{
+  "name": "rc4-stream",
+  "version": "1.0.0",
+  "description": "A rc4 encrypt library",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Araújo <gabriel140492@gmail.com>",
+  "license": "MIT"
+}
